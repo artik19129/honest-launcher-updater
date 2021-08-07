@@ -1,3 +1,2 @@
-# Honest-Launcher
-
-Honest Launcher v 0.0.1
+# Honest Launcher
+## &copy; <a href="https://h-rp.su">h-rp.su</a>
